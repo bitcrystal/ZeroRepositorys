@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HJCuq+jfqgvfeePfjZFQ8Fp2gIJMqs4w7dHw3T9TypISpMxehfcHyHg2a1Ip7DBCLOUE5nrKjz6y0ElDy1dyKbo=",
+ "cert_user_id": "valimero@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6ef4d3076c0ff5be00282acf8c7d6b8a6a770fddbb44fe90a753912cf040683b",
+   "size": 68
+  }
+ },
+ "inner_path": "data/users/1NpBDnpSGkXGKLtq9x75Lb846dfgLCWNtn/content.json",
+ "modified": 1515706449,
+ "signs": {
+  "1NpBDnpSGkXGKLtq9x75Lb846dfgLCWNtn": "Gx782W1fMZGj9CL0cGYuu5ey4l/2mZALF01KbkdkVk7uBEX7PyxZXLTaNK5yjPu7Zc8eV7SSSySqdSPItJfRgG8="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HN6TINcOBhW6VnPkYwVFCkUNKipxiz1N/7jNrbdLhYRGOVrScMcCvI8qMgxUIXmgtyBHNQ3VjGPK3qm77bCY7r0=",
+ "cert_user_id": "gylpm@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "829b635986def5b8290e91c775ba136e389f0623d8e0ecc0b7eaab94f2414ea7",
+   "size": 66
+  }
+ },
+ "inner_path": "data/users/1NbXuBVQbgEsXXuAhQwbyQ9xmQ3jyZmdM4/content.json",
+ "modified": 1509684027,
+ "signs": {
+  "1NbXuBVQbgEsXXuAhQwbyQ9xmQ3jyZmdM4": "G6HP3Px71hMRMxepxRiFbihM9YW2WhlbR6jDnxBY3ESFMXkr2edWZwYyKR5PsJL6BFYMHBWp7QF111tvluAb9Lc="
+ }
+}

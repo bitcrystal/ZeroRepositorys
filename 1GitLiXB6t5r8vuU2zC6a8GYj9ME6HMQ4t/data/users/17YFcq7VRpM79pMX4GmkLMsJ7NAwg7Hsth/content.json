@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G0vM0zjSKErvpmQ73wiYctGwU/l33qQNKCWjphub2j4CaY4UBtQRm6pssOpQc3reFdHbYHGqsGtKvItwA7tmyZU=",
+ "cert_user_id": "matehegedus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6b2c90e56c7907b8d5aedd76e2b094ecfb6aa7545d8c008359e4d25d20f9d79d",
+   "size": 74
+  }
+ },
+ "inner_path": "data/users/17YFcq7VRpM79pMX4GmkLMsJ7NAwg7Hsth/content.json",
+ "modified": 1509660535,
+ "signs": {
+  "17YFcq7VRpM79pMX4GmkLMsJ7NAwg7Hsth": "HMVFuvaQKqMEKrW5+Vml8z8JjC/qL8sM7i65XkJW7jhTJrKVSb1zh5l/0eJt0su/fPuBjTByT4cAvlu3h8LOEx4="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HKRnM+IQXdjm9F1xzkNHt3i7HL70LgLt6pi0uJ7An4qppJXla4ZuPzztVOMy/qBFcd9qRQiP+IRm6OJRdGmgPZQ=",
+ "cert_user_id": "hermes32@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c56cf7ae8806ebcd000a3a1975219ae16311aae6f8f749881ea9652734b57e0",
+   "size": 68
+  }
+ },
+ "inner_path": "data/users/1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8/content.json",
+ "modified": 1510519968,
+ "signs": {
+  "1LFxK1BSHEnkJcXXb4qGszVUxEwqLVSJU8": "HPhXRiafblAl69S6VQqUydX6VSqIYGZ1LdQ7eRkJYwYdd9shzRw3+xyNmfY84V0MrFfDWeuFbOpIUaJ4FjR95FQ="
+ }
+}

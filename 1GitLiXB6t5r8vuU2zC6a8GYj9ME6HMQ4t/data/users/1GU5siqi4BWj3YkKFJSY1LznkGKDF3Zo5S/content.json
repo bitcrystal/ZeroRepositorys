@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G1XafzFRk+7+D1y7G6VDoB4WsRbGD3GRi9D4tO5XqV7C7VxmcV3ZffEanrF1nsV2KvwxNzAHF8WbIS/XEaUi0wM=",
+ "cert_user_id": "hougo13@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1afeb1aac8eb4c665099b62a05b8eed103af78a2af5e2e206b967518dede1022",
+   "size": 66
+  }
+ },
+ "inner_path": "data/users/1GU5siqi4BWj3YkKFJSY1LznkGKDF3Zo5S/content.json",
+ "modified": 1509727034,
+ "signs": {
+  "1GU5siqi4BWj3YkKFJSY1LznkGKDF3Zo5S": "GwZrpSE0j0Vzv+nPKHQCiqh51qBtCyeoTJv0RoZmbMy0K92Tdrwr1099yvGcDT5gu+Jy5J8bcTOZPwxgldAvtkM="
+ }
+}

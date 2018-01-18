@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HBJpmTt+VEzfWenoIQS9EJjvhOPEPr194A0ZiVgqhq4B52JrV2wFtYHGLoMYC5BGCSwFo1863UtA7hkWa3Muexs=",
+ "cert_user_id": "nirik666@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f1e125eb601c554791bb7b0dd31f50070dc2c010b7192eb13e3d050a7522bac7",
+   "size": 68
+  }
+ },
+ "inner_path": "data/users/1LTJ5WsZB9ZEeEQrMHBy61Jbt2HtHS9icg/content.json",
+ "modified": 1514828905,
+ "signs": {
+  "1LTJ5WsZB9ZEeEQrMHBy61Jbt2HtHS9icg": "G2AYD+LbkXKGpqOTzjXFGudyQOnggFXzjJiLqAs5Jd5HAK8rvLeWzJkE/06f12RHt2V6OultiiSioM6B8WmxKZs="
+ }
+}

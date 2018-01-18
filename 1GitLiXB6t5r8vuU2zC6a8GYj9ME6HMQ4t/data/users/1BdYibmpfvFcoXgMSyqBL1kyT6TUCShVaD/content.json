@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HBoj9f8a43cEGSyBVGJKxjQGzmIOOnhMcLKGVoY3JlS5+WeShpRII3ASWXAP+0xbK+yOawL4Vud4esGcSfif/hM=",
+ "cert_user_id": "hypereitan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "02cd478430087381f4a9b6590a6235a3441c99c9ffeb4ca622848497765ed7bf",
+   "size": 72
+  }
+ },
+ "inner_path": "data/users/1BdYibmpfvFcoXgMSyqBL1kyT6TUCShVaD/content.json",
+ "modified": 1512839738,
+ "signs": {
+  "1BdYibmpfvFcoXgMSyqBL1kyT6TUCShVaD": "G+jMPhqj5BrUqswaZnRS1j1G0qz1OzL8AUCZzq7/Q/WwIJTJEwQokhdOUGAIupR6CTdKBrYDFGjzU0ztgZNW6C0="
+ }
+}

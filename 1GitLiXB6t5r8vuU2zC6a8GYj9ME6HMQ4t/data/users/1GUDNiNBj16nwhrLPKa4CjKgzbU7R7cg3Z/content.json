@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HCqs14DCqwikNpq8mkfCu/7Ok6zpC96/SOGZ+Yo6m39A6r8WVUUyfFD3EgOMEzgW6JAq7OasYwU9zfEwtfbKkEk=",
+ "cert_user_id": "motoroladekenzo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6bff5c66aba20e997d02dacb01bfd66e6783adf71ead5899f9126b09ca74de79",
+   "size": 82
+  }
+ },
+ "inner_path": "data/users/1GUDNiNBj16nwhrLPKa4CjKgzbU7R7cg3Z/content.json",
+ "modified": 1511642652,
+ "signs": {
+  "1GUDNiNBj16nwhrLPKa4CjKgzbU7R7cg3Z": "G+9ZnKJ2mTfnbTM4spIRnkWrgtgbpoWQiIOb/GTsfCXLfRLd22/3f9CM9HroeQshdvku0QC8wrkdWZvA781+iuU="
+ }
+}

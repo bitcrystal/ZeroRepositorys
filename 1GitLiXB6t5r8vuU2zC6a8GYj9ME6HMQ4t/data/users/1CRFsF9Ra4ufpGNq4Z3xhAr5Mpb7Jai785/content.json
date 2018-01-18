@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G4E/wVvpw20hKTbzjj52Y2Ny+XsyWkiSMVLu4k/yN3/CqzByZsTrEfxYLyjfYvuJNGkJ8Dz1l5aadCWrEz1x4RE=",
+ "cert_user_id": "vileng1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c9b1c056d49578d1ff3103b5adf1aa1f31943619c648c9d18b7c55955e07b41f",
+   "size": 66
+  }
+ },
+ "inner_path": "data/users/1CRFsF9Ra4ufpGNq4Z3xhAr5Mpb7Jai785/content.json",
+ "modified": 1510050888,
+ "signs": {
+  "1CRFsF9Ra4ufpGNq4Z3xhAr5Mpb7Jai785": "G+czMV/6PRom6bFcaAIP+H88+EmIn5ZdKHAMtj61P2J6ZmEhPx9nIXq5dQHvI2sURoVGaIomZetvbflVrzFIIyU="
+ }
+}

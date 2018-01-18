@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HGLtSooSMMCvJkSBitkPe4Q+OiX1V5Pt1MOf7ZNqae4xxmPJeGw9EhaeIdfjIr1r2AkCZsPCV3zGqEMWr0xtHEk=",
+ "cert_user_id": "oxide@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "75aeb2433771fbdea8a1d5abba878df891b5e33b362889de8530c1c594b59441",
+   "size": 63
+  }
+ },
+ "inner_path": "data/users/1LhiCtdVdBLCFhdW7DaphUaMQ7ua4pEYSV/content.json",
+ "modified": 1514662497,
+ "signs": {
+  "1LhiCtdVdBLCFhdW7DaphUaMQ7ua4pEYSV": "GwlGiyq9R+dR7XIeFX/5EHfUaNnZMOFuMIh7N6IF5EnMSLVkz9vj5GnuLVLhiee/Uq4XdvVXc25YqIqupWJ7EQw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HOd7fntML7ExiUz/xM2gO6JDUbLUtW/M5S81URXVoNDLjRDS1wSimRZhNpd3irKm/FXhKgzoQE+TnsXOTve04IE=",
+ "cert_user_id": "cesandovalp@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e763b72baf11f123dc1519a708f25939b308739f4f5bf6f31439dfb4b5ccdfe4",
+   "size": 74
+  }
+ },
+ "inner_path": "data/users/1NgHK5RpXJmGuwKD5uJNQQYc9swTDpsqAX/content.json",
+ "modified": 1514700506,
+ "signs": {
+  "1NgHK5RpXJmGuwKD5uJNQQYc9swTDpsqAX": "HCj3TJmjMvbhOXotGB3W8zwEJIHpCeG1yAwez0lzAljlGY9tDnQ4bw1yADwt65m3/J6iyPIxabbMWtFVfgr/U9Y="
+ }
+}

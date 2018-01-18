@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G+9ob/Bm2mzAzRRe+a4eExUlPEVHvTILoGTE3ywniqth1/02Oy6jEjgIKq2VqIRTrar4GAmg4vvvgq62rpEinBM=",
+ "cert_user_id": "airwaves@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9425b0018fc3b43e8fa8afed5372e880079a13f478d3e7ef6dc88b7f412b6e7e",
+   "size": 68
+  }
+ },
+ "inner_path": "data/users/1PvkCG8xfGpWdJF7skc2Eg9UKkJzk37n7c/content.json",
+ "modified": 1513353865,
+ "signs": {
+  "1PvkCG8xfGpWdJF7skc2Eg9UKkJzk37n7c": "HI/BuEPjSvu57LLWuou4ezsryWq0yiEIBP1m16sZs99aCR/Dka1krbGjPH8l/GTxMn2N1vfS600VucCQD0JMlnc="
+ }
+}

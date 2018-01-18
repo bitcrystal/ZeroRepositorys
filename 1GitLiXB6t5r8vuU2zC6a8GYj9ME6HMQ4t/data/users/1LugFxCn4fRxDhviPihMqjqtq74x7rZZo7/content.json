@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G4O+kYEaO+Cm10hE5WHw6T9Fc+36QXxCl9uByVaqrhgQFYbH3acYdQAePZk8pnVVhRgqmWSGPmbQKDgTQdPte9I=",
+ "cert_user_id": "gararoyal@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e1a8616981d6b4ecc6e33f5af4aed06a382b0f22dadcff4ea616ac76a1af1244",
+   "size": 70
+  }
+ },
+ "inner_path": "data/users/1LugFxCn4fRxDhviPihMqjqtq74x7rZZo7/content.json",
+ "modified": 1515051989,
+ "signs": {
+  "1LugFxCn4fRxDhviPihMqjqtq74x7rZZo7": "HG7Mg8OunIOBKFriLZOicgTImOOCcFP9nVwIjXU9P8Z9LdnlACJ5AbOwf0njhdiMWL9sJuEJNRIMO0/0CsxH5Mg="
+ }
+}

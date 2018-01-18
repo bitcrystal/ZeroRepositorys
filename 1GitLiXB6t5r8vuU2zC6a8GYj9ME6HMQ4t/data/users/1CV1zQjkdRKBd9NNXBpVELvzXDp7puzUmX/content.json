@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HIv0NiaUMPfGDpKKulmyozAeg90dML4N+ICuAKCFlJi3Ke2G66n/6NXQAn4Tdn8b8bDfHoSsTIavPm/nG/vX3D0=",
+ "cert_user_id": "canvas@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "217258b86e173ed562f47819658a2f82be70ebcb436268f10fc12692f7218337",
+   "size": 64
+  }
+ },
+ "inner_path": "data/users/1CV1zQjkdRKBd9NNXBpVELvzXDp7puzUmX/content.json",
+ "modified": 1509717516,
+ "signs": {
+  "1CV1zQjkdRKBd9NNXBpVELvzXDp7puzUmX": "G1ETm5OedQwK6bIKEbhXLGFhRRiALSk5CH/pdKdLsJRJAmlc5kDAYs6Nu0URC1UIbgmwfiO55SU9W4KpN/wRZ/0="
+ }
+}

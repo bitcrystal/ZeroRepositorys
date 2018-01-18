@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HNMgPrUGj10Ou7RbOv8PRjSApLS78xbMRgiSL/PtJwsHIJAFmOigvprFK9bnY9JnkrekHsry4j1PB5oWhizqPdc=",
+ "cert_user_id": "killrnarwal@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8049d4922fd53a2395d6f8f3ef3328ec3a212e11672baf166adf548bf045608b",
+   "size": 74
+  }
+ },
+ "inner_path": "data/users/1PomhY1pQB253FsWaWrmZaLExyQf6CR7Lm/content.json",
+ "modified": 1510231596,
+ "signs": {
+  "1PomhY1pQB253FsWaWrmZaLExyQf6CR7Lm": "G8ctKqSw+/xJq5bxFiZd3Mbl6IyIV1ToBIoCZG6K70LVatrKySsD4O0b6eD1T4Ek/Ko5tLZk+XBYRr0GzkUJrIY="
+ }
+}

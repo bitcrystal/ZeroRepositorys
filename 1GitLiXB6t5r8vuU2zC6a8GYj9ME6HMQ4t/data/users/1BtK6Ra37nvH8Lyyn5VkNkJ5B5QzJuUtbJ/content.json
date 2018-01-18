@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G7cYrzYu6BdNVPQ9Qo7gIj3COijlJgpOQy5nYZ3iN0R+PxIzMf0vf2Cj2PeHqy0fVbF2mTPiNj6m+K0G/rstdas=",
+ "cert_user_id": "bigmama@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "447dbac6f93c56b9e83c63a014eeeedc86077c3f6064371c7a8104cb0729b65d",
+   "size": 66
+  }
+ },
+ "inner_path": "data/users/1BtK6Ra37nvH8Lyyn5VkNkJ5B5QzJuUtbJ/content.json",
+ "modified": 1512572265,
+ "signs": {
+  "1BtK6Ra37nvH8Lyyn5VkNkJ5B5QzJuUtbJ": "HKsXRBe8WNQTNzmVL6QVMDgW6HZebpNqjpVrG7qTOWw6A9X3iz/UPkr4oWaS/8sKa85SAz6bVTRdPpsbL1Mz5yQ="
+ }
+}

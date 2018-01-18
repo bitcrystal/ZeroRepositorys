@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G8DLd2IP7hJIDmfgDw+GIDQfF8BvdBnwuZZPzecI9/MYwLzL4Y8kGbFslQOA9GnA5rLq4UVKZkq3W3jwK8arUnY=",
+ "cert_user_id": "margie@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3cdfce12e28bcf3dfa39316a22f4da4155bf6f98e16e332ed48aa3539cddf2c9",
+   "size": 64
+  }
+ },
+ "inner_path": "data/users/18nTsiXr5rNWFYW8hpQt9Ruah9wRdPP1BK/content.json",
+ "modified": 1509902293,
+ "signs": {
+  "18nTsiXr5rNWFYW8hpQt9Ruah9wRdPP1BK": "HFTwr2i8dvgqqElo8VcztsW1iUgavmfmAuQDVvzzYBD/CMj6U521h67sjQATXDa5zVlQ2rh7oLdb5WC1U3YA2sw="
+ }
+}

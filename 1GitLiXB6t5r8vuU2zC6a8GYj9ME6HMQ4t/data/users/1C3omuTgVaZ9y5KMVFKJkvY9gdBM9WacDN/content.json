@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HAGZ81jhs89EQN49OZoSzQV2gTj5u4ivoAjF/ut1WocW1KH2oT5Hg9Ks6Xc/3vzKg4RSwOLKJQMINniKvDNR86o=",
+ "cert_user_id": "ploygon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7fc340a1bff2c561b5175d0a02526b1d28567688852232589047f649ff33272f",
+   "size": 66
+  }
+ },
+ "inner_path": "data/users/1C3omuTgVaZ9y5KMVFKJkvY9gdBM9WacDN/content.json",
+ "modified": 1510705755,
+ "signs": {
+  "1C3omuTgVaZ9y5KMVFKJkvY9gdBM9WacDN": "G8renelS1KiF/d8OJ0Abejd6bjR1+wxfoICY/SmJGV0/ILQReDDXH/5ouzIpv/KKocXc1ScLb8kYongCyHcRnVo="
+ }
+}

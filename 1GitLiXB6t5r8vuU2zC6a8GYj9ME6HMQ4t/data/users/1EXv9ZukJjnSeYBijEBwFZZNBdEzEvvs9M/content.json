@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G0rw4j1NUUGazUOJzvS7QbXR9eKz3HfEsfnZE1iZy3kP4nT1sxfBUSL5hTpalLOhBfXQ22uGz4VKqnQ0/lC/aN4=",
+ "cert_user_id": "parkour86@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "45721f96dc4b8d51af46b0590dbeafa026cc9cc659d5af6cbc9c2da4a8387654",
+   "size": 70
+  }
+ },
+ "inner_path": "data/users/1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M/content.json",
+ "modified": 1510727384,
+ "signs": {
+  "1EXv9ZukJjnSeYBijEBwFZZNBdEzEvvs9M": "HPR+SgDf/dpyzPGg0nD+ncmM/MUB7MmSwswmxpnb94kJKW1TzBWcqwfSo6GCSOgB+AS8viA3Wb5ybApPPA9Wwdw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G8Y7sp88aaYG29VT1is1+uXrwYGfjcMiZAvix0h5PiWO5xV+Y541yAiTVwCJaVbI9/LvW+g+ehaCBaj1wvZv/fw=",
+ "cert_user_id": "pinkfluffysocks@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "649cd65e4f25c0da3e5ef03917bed40e5751125da7dd93c3fc4b778265d0f29d",
+   "size": 82
+  }
+ },
+ "inner_path": "data/users/1KQkCPR9C5ke8z1uty17T2XSoHogfMCimE/content.json",
+ "modified": 1510870294,
+ "signs": {
+  "1KQkCPR9C5ke8z1uty17T2XSoHogfMCimE": "GxIXkGGgeEmH/oIuFWpxiypAm+JPZv+eZ1r5RwYe4Ic/Sys4gcGzxPg3NL3WZQAzzxs9BNPzAlCdrmKfqf0n3Pk="
+ }
+}

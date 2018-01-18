@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HO8iKvFGV2WPlt/W3tQIen12YGa80V3NATsg5531RUQf+GPHw8+/WY0UMaEm4WQrUas+uR3GmjR4XkiCrXV11vw=",
+ "cert_user_id": "brunoloff@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d16c4eb11db77da1a0be9cb48d0972c06ed1e38bbc9881f00dc7b55fd3ff079b",
+   "size": 71
+  }
+ },
+ "inner_path": "data/users/1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj/content.json",
+ "modified": 1509730232,
+ "signs": {
+  "1KdQMFyXwPY2vjMDL9UiPnckwGbyvUjpcj": "G87orYR3FxBMUp26pNu2f43d9aH/Zj8g30+dTVkgTvx2AZDkp2RHjlnEUEbC50LrZOEi+zfykToZ6YXFUJmCmx8="
+ }
+}

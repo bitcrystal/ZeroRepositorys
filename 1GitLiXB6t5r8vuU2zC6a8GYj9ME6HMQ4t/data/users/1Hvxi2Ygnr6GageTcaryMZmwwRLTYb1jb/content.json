@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HHQdk9SF0GD0gEQEMwMSLP5rMOgBhJcw4brcquYaYYoP7FFHiM716xCDp1SBz0hfHLBZ5NPNRXHm7qiX5e3ll5g=",
+ "cert_user_id": "nipos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c4f968874a74bded91bc88545050d0f2eeb0297f050a84abfcf945910bfd772c",
+   "size": 63
+  }
+ },
+ "inner_path": "data/users/1Hvxi2Ygnr6GageTcaryMZmwwRLTYb1jb/content.json",
+ "modified": 1509709166,
+ "signs": {
+  "1Hvxi2Ygnr6GageTcaryMZmwwRLTYb1jb": "HKKA2MYZJg2qMjD+xhNV07wQq9EpZz8AwpBQXAoZkoo1fbVgXf36/jrQ13CnnoXkjPiyzN0Dv2E6L8x+sZxX4D0="
+ }
+}

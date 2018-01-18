@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HJ20+7VUApl9G7Q0OgXDHJSv2Nn1dBmGJUc0sihR/+/5ttyHuku9Z7EACCMDvis+gE8fKXQNHvSHFW2D0ZL5GC4=",
+ "cert_user_id": "dudewithbadhair@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5deda03df57aad78a6d17f52983ce2bf31590a0081628e81dbcb670d6079a6b1",
+   "size": 82
+  }
+ },
+ "inner_path": "data/users/15ZMjj635k4iq6PLhQkbEEDzs1v5mTSCyt/content.json",
+ "modified": 1514849423,
+ "signs": {
+  "15ZMjj635k4iq6PLhQkbEEDzs1v5mTSCyt": "HAKiYSy/fCltTaxKJjoEllgjLif4U1nmV271cuDKZYRwTjym8Zk+4LkBOUvQWmYzQNCt+NuxSMqbfUZshTi9sSg="
+ }
+}

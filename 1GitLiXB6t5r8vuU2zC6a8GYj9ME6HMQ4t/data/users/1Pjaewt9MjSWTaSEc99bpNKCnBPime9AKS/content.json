@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HAPaRwmfPntlzsYHZ32b51HckH0R6qEJzrq2ek6cuwNiUUvF639S2pSrnatORYjC+3zrvQTeq4b4OBwqX/xJZ9c=",
+ "cert_user_id": "evilkhaoskat@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8bc3b491d8ca77e1b78f634f3ea560931d653cb9548ebb9c76f368f09f640f08",
+   "size": 76
+  }
+ },
+ "inner_path": "data/users/1Pjaewt9MjSWTaSEc99bpNKCnBPime9AKS/content.json",
+ "modified": 1511446703,
+ "signs": {
+  "1Pjaewt9MjSWTaSEc99bpNKCnBPime9AKS": "G5Rifk0ZCbJxWUTFSabbMMyiRSAcvfNp+buJ9XkABHvUWjXFACdNJMDjDJO3CTYYa3BLidDtFd7uc8RZfQSg694="
+ }
+}

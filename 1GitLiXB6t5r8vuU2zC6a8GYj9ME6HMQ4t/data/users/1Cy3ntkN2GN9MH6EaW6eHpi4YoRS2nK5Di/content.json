@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G0Edfrk9307N1U2i1GF5sv3AWx3HnGp6qtMYjRzOgsF2wha0d1xOEGC15Kmvg3PKeHs9az2HQOs9PC/pSO5G9qM=",
+ "cert_user_id": "gitcenter@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "403f0f5fbed2d46b04367e45ee4a3120b55ad82c828ab5c270ff1cb93003d501",
+   "size": 71
+  }
+ },
+ "inner_path": "data/users/1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di/content.json",
+ "modified": 1509706530,
+ "signs": {
+  "1Cy3ntkN2GN9MH6EaW6eHpi4YoRS2nK5Di": "G7hPbWGHDaIcKRbvdeBgKZtKHvFt3rRhxdQb6196awHNaCcgoOABVoFkmTrthwXJ80ClWN71rDkjkfodpji85to="
+ }
+}

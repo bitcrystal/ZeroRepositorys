@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G2Qv/tP5CF3PkksUbD3CMti1YYgExkbLv8wryIdNljWdAwE0ZLBKxV+2Poxa4+KStPk4nU5UL+PfNLrii/srknk=",
+ "cert_user_id": "infectsec@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f233e41d6fe4c6fa12d0159c96730bd8df95436078c5546da764fcbb2e964ada",
+   "size": 69
+  }
+ },
+ "inner_path": "data/users/16oMvhMrWnKi271dR6fyRuG6XV7Uw6mzh4/content.json",
+ "modified": 1511635036,
+ "signs": {
+  "16oMvhMrWnKi271dR6fyRuG6XV7Uw6mzh4": "G2OY8vcjZRJj3KRR6izO0VERRDeThOSUFl008pFqCWKnf6oyd7UBoY8dLYqKgMQWD+Do/2ccfFPtgmiiOF7+hyY="
+ }
+}

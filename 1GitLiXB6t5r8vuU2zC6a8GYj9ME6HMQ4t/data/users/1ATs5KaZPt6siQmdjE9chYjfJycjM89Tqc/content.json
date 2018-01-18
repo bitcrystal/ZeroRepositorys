@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G8LORzZCGDKR1S4D2wasJTUHwCbkJ0fZ9vO6JwAPuSWqJRGHd0GLii8LE9wqXhiAEpgZeTaSZBcGdG+I+lTCZWk=",
+ "cert_user_id": "rainicorn@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "662d673b94d253cf3fc9318a50bcea8f1fc9b26f14e34e60e5be1808668306f5",
+   "size": 70
+  }
+ },
+ "inner_path": "data/users/1ATs5KaZPt6siQmdjE9chYjfJycjM89Tqc/content.json",
+ "modified": 1512202259,
+ "signs": {
+  "1ATs5KaZPt6siQmdjE9chYjfJycjM89Tqc": "HFwN89lh/Pzqy3VNiOV0woV7E7hfi20EsWWfUFFntRJmHzcBVSIUCc/bVBhG8AR1MTAy5ViTkAnYPunpfpPzJEk="
+ }
+}

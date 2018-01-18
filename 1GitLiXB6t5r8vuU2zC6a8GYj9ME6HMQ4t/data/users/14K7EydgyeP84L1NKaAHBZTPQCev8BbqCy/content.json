@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HGzoU+RtqkkE0UMI8R5dXPrOKKApzCT5/3U8+2gWorvx0IoA5hYwhMTsLzvuTbapDZlB+L3qj4OzwIbKwjGVKAA=",
+ "cert_user_id": "glightstar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5a2ef054a46cc74a3ff777ce50bd5363c60dafeafcbbaefe1743f177dc95ffb9",
+   "size": 72
+  }
+ },
+ "inner_path": "data/users/14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy/content.json",
+ "modified": 1510404912,
+ "signs": {
+  "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": "Gx5x1W9/s8s8fZoA1ISZF6XuYPmfhsfD2Zat9xWzRu6+QyEsPoHUdwgL8STZT0N8uEP5aJB2q+kUGmPZptlSt+A="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "HJefMdwLWpCQ11IZycglvME7jCpFr2kwLgfaBwuXKqqxtFgxKZQnVjo+jYnSuHdHH8joavcW+nH8crYFVbZkbMs=",
+ "cert_user_id": "edycop@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5374e9decb4664c65ae23dadebec7b10699969da317ccd4f22cf632f5d79787c",
+   "size": 64
+  }
+ },
+ "inner_path": "data/users/18NrcMdtcpfn5h4XcfQAfouCspstq1jcW6/content.json",
+ "modified": 1513300991,
+ "signs": {
+  "18NrcMdtcpfn5h4XcfQAfouCspstq1jcW6": "G8uAy9MnpXEzh7jco6zysbiv2Z/PZtYjigVsRb+ScqbwZeDj76rvvhNhMnSYreVeUTSDtK16/VsFExYqAtyaoGw="
+ }
+}

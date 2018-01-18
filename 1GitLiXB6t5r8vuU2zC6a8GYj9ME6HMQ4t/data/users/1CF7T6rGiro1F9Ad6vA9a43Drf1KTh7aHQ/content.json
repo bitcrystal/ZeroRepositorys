@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G6FFDhcVu1fbuEchcKj8XA9R/VN8GsW95888hrQqAEAufP/P014a8NGlQu2PJnZEpIUt3bLn+rZCWEcIQLhWCSU=",
+ "cert_user_id": "joaco3150@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fa64238e0aa0707d0620b9c0a7762363c8bc1bc1a71deadedf7f3c1a04a20874",
+   "size": 70
+  }
+ },
+ "inner_path": "data/users/1CF7T6rGiro1F9Ad6vA9a43Drf1KTh7aHQ/content.json",
+ "modified": 1510096212,
+ "signs": {
+  "1CF7T6rGiro1F9Ad6vA9a43Drf1KTh7aHQ": "HDSaRaKvAje73I/rLFaFZcpfc8ya39w2+yLK2qUJbnzfPYyOa+CZ1i3Qgx8co3+e2GsrChUXQ1tZjhayywp2ZnY="
+ }
+}
