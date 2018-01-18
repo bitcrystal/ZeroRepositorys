@@ -361,12 +361,12 @@
  "inner_path": "content.json",
  "installed": true,
  "merged_type": "GitCenter",
- "modified": 1516236526,
+ "modified": 1516273212,
  "postmessage_nonce_security": true,
  "signers": ["1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD"],
  "signers_sign": "HLbmuEuhtsnlc2+svwyXnH5+wdl3M4LhSE/nqj8L3n7ANF0T+iWBqP8VT2gMrU6k8+YrMpE2hkpKtOMTSobLcDo=",
  "signs": {
-  "1AHweG1UEdH6gZ5cWr7o6J5y5yeVNU5Gkq": "Gz7Fp350BBvVv+vvWijZ14bTRRZGbdhN4w2GYr4fex8yRv6SedFJ6ADWPNkK738kLuYilCM/K5+EzXzS+e2SsIU="
+  "1AHweG1UEdH6gZ5cWr7o6J5y5yeVNU5Gkq": "GwuZV6sz+pPrRx2bzGew7zRJCM00vXL3/mqyPCjSZVrFaKBN80ec9jfu4t0KVxDMyInWjmBSXwQLX6Z6P7luQgo="
  },
  "signs_required": 1,
  "title": "ZeroHello",
