@@ -1,6 +1,6 @@
 class ZeroAuth {
 	constructor(page, acceptedDomains) {
-		if(typeof page != "object" || !page instanceof ZeroPage) {
+		if(typeof page != "object" || !page.isZeroPage) {
 			throw new Error("page should be an instance of ZeroPage");
 		}
 		this.page = page;
@@ -49,7 +49,7 @@ class ZeroAuth {
 		} else {
 			return new Promise((resolve, reject) => {
 				this.page.once("setSiteInfo", () => {
-					ZeroPage.async.setTimeout(200)
+					asyncTimeout(200)
 						.then(() => {
 							return this.page.getSiteInfo();
 						}).then(siteInfo => {
@@ -85,3 +85,11 @@ class ZeroAuth {
 		return address.replace(/^(.*)@(.*)/, "[$1]$2");
 	}
 };
+
+if(typeof module.exports != "undefined") {
+	module.exports = ZeroAuth;
+}
+
+function asyncTimeout(time) {
+	return new Promise(resolve => setTimeout(resolve, time))
+}

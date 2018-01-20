@@ -8,28 +8,40 @@
  "favicon": "img/logo.png",
  "files": {
   "ZeroLib/ZeroAuth.js": {
-   "sha512": "0778eea5e329d0f209ce9518d437e801b3c1ed2d1f2de9e4da01591fab7e02e2",
-   "size": 2093
+   "sha512": "6356dd459244a554a8f6d34e2a24d9a2ab395c7f7ff87e03a20a3ded49ec8806",
+   "size": 2236
+  },
+  "ZeroLib/ZeroBigFiles.js": {
+   "sha512": "cf7fed0306abc3e85526e45df1c3c49e64b471db6e5a836fd6ffc601dcc3b0fc",
+   "size": 1006
   },
   "ZeroLib/ZeroDB.js": {
-   "sha512": "a6c6e091bff2c3e0dd9b13b3e701a58dc34f6eeedde17b76bf0fb82f47500666",
-   "size": 4879
+   "sha512": "fea99b8eb3fdcaff977a01407342d3a6f4e8dce900009ed752781309be32fed0",
+   "size": 4942
   },
   "ZeroLib/ZeroFS.js": {
-   "sha512": "8917bc171e04156df4e8fceefd78e5837c958410262f6f4133b3127ccb47f712",
-   "size": 4701
+   "sha512": "b31a819796077cb3bde5aec14849b738f75d1ede7165d62c307ae5c44078a3fe",
+   "size": 4764
   },
   "ZeroLib/ZeroFrame.js": {
    "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
    "size": 2409
   },
   "ZeroLib/ZeroID.js": {
-   "sha512": "780e7a2e1256352d866838b407539fb339581e8bbd784d04347a849211bebc5e",
-   "size": 4159
+   "sha512": "c75a0851625e3012a014a0321204ac75805cfc00744986ccc04aa552bb9a4d67",
+   "size": 4066
+  },
+  "ZeroLib/ZeroOptional.js": {
+   "sha512": "6f30c44c15226a1c9c7443f0c7e505de578041c3088208c7b786d50e868e39df",
+   "size": 3221
+  },
+  "ZeroLib/ZeroOptionalProxy.js": {
+   "sha512": "8585773a6a1943e1ce1dba1e4fbc758c8bd1575e95ad4bf8e115924047b34881",
+   "size": 1614
   },
   "ZeroLib/ZeroPage.js": {
-   "sha512": "06ce839b051ad2b634001b5691d25a34af7bb3aecffc1adff41db1f799d18417",
-   "size": 7783
+   "sha512": "64c822afc60a5a153fafb83c18b487ba3eee01d02dda791cd909330e5be52bf8",
+   "size": 8020
   },
   "assets/post-receive": {
    "sha512": "69c20eebfcf8fe5c3204459ca4002daf5b6148212b72cf11fd03b2a481a767a8",
@@ -96,8 +108,8 @@
    "size": 776
   },
   "hljs/highlight.min.js": {
-   "sha512": "9468d65997f11d826e39ded6ff177aa31ae88df596db3f54eeea728edc49b0b7",
-   "size": 46005
+   "sha512": "1316848bec7e66aab9d0c201adac6c2b6de541025977c43b64397026cc50c2c5",
+   "size": 46003
   },
   "img/MIT.LICENSE": {
    "sha512": "554a080d78183c459c7594d082276bfe8cd66a0ceb5dd9677edd7675a17e5186",
@@ -204,8 +216,8 @@
    "size": 990
   },
   "img/pr-merged.svg": {
-   "sha512": "65e872b7d11601ecec32756e8dfb224bf5fa0202e479549e70add515b2cfc1d5",
-   "size": 994
+   "sha512": "ba5733677fb6f7627f944f53f89f6413026cd13ea92983bf416ddc7e93e111a0",
+   "size": 990
   },
   "img/pr-opened-white.svg": {
    "sha512": "b9143123d2cef3ccb872a3a320111d4f318292325e56d8e26d0d7643628916e0",
@@ -295,14 +307,6 @@
    "sha512": "c4afca40f7e3feb6b59f8baaf963ee3fa74ebb57f5d8eb25546cdc4cfd57263e",
    "size": 1594
   },
-  "js/bundle.js": {
-   "sha512": "76cc40a75a6991e41d6b5a122b564e451f28d099208e07a4b21e208d07704931",
-   "size": 457309
-  },
-  "js/bundle.js.map": {
-   "sha512": "ba3dbab33fce29b28a2c63b1e5675708b3ee6727bbba49dc2a8bc1fcc81cfd03",
-   "size": 1241967
-  },
   "js/git.js": {
    "sha512": "777f8bbfdcb840cbabe08102f047f5e3157615eb70fab32ebffe349f6b7a4b9f",
    "size": 25479
@@ -338,6 +342,22 @@
   "js/sha.js": {
    "sha512": "e9a5270e0146a2f8b1343bcd8ab575c3f23200be7ddc2c8334032131daab222b",
    "size": 7293
+  },
+  "jsdifflib/README.asciidoc": {
+   "sha512": "c820587b6dfd5eaf14a90844c73e9e168b104849ba8b20eac5ade19fd081a5f0",
+   "size": 9245
+  },
+  "jsdifflib/difflib.js": {
+   "sha512": "bc36e9e2391102081b7abeb4a01f64d64df8698879e500880c6678957f6f66a4",
+   "size": 11308
+  },
+  "jsdifflib/diffview.css": {
+   "sha512": "947e883ec6c32bf98c69a17679433a27f66a83aa69dead7a5cc95f791ec878e4",
+   "size": 2604
+  },
+  "jsdifflib/diffview.js": {
+   "sha512": "37ac3b544bcdce717597fd034f8adf6a50ef6d6234f2e9902d8c7f700d47e80c",
+   "size": 7978
   },
   "marked/marked.js": {
    "sha512": "d41eb9973c0f1fac19e18f014721895d2b7a80ad2386f08f8903e476e09e54ae",
@@ -396,8 +416,8 @@
    "size": 385
   },
   "repo/css/tabs.css": {
-   "sha512": "4da5da8714381563e7c78e3e6e256443501449ef4e80d61dd086eeadd7957031",
-   "size": 438
+   "sha512": "79762e355fbd0ea76c5b6d4f557e362003fa41f64a3c85b70173d5a916eec2ef",
+   "size": 410
   },
   "repo/css/tags.css": {
    "sha512": "5d741371d6ede7832e690e42e3ebf7ac616529426f91443e47815ba22dddf9e6",
@@ -611,9 +631,17 @@
    "sha512": "79db259f54648c0506d9e6e7c4876d9c860604f43891fc791bfe9d509b2fd9c3",
    "size": 2386
   },
+  "workerout/LICENSE": {
+   "sha512": "552aec8d120c9d931769f6a6b794716fce978d0055715de21746dc0f064f4a0f",
+   "size": 35141
+  },
+  "workerout/README.md": {
+   "sha512": "1b613e79a292c623a5d5bc3952b52f2cd946f6fd3dfc532ef7924b1ba1f68c6d",
+   "size": 1899
+  },
   "workerout/workerout.js": {
-   "sha512": "e3c1b4e094831e1b0fc778f034351e7148d757dca1bf9ba919c5f259fd5ee56e",
-   "size": 9843
+   "sha512": "fa834ac365e8ee63d28afe3e436b77724b013e3167f36d3efe4e8519a7bbc5eb",
+   "size": 9484
   }
  },
  "ignore": "",
@@ -624,11 +652,11 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1516263898,
+ "modified": 1516368022,
  "postmessage_nonce_security": true,
  "signers_sign": "HGi2ieQAyGsfO7LeAVgbnd2tJAqB15an3uspuYTlJVSMUCEkQjs2wzhEY9sW3z7LTfS24oyDRVEnQ7KdzADbGRI=",
  "signs": {
-  "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t": "HARaMuEUz0bmR5NK/MIrdGAPK5s8fuqJrp3dJfWSLbMMOLJLvkiyEwlb+w3VZdJaYmx8w7crhw0AYlTDYL1IVDM="
+  "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t": "G0beW4U+GwBZfjfR23eGzGADWWfnmmpeY3MmyPb3utkIMZJOP72nZAIzjnNlCTfAm0+GNpOD86z3W9CMel3Gjm0="
  },
  "signs_required": 1,
  "title": "Git Center",

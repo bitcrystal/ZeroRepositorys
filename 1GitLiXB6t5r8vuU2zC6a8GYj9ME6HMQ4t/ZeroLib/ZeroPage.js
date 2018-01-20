@@ -1,10 +1,11 @@
 class ZeroPage {
 	constructor(frame) {
-		if(typeof frame != "object" || !frame instanceof ZeroFrame) {
+		if(typeof frame != "object" || !frame.onMessage) {
 			throw new Error("frame should be an instance of ZeroFrame");
 		}
 		this.frame = frame;
 		this.progressId = 0;
+		this.isZeroPage = true;
 
 		this.initEventListeners();
 	}
@@ -113,8 +114,12 @@ class ZeroPage {
 			once: {}
 		};
 
+		let initialOnRequest = this.frame.onRequest;
 		this.frame.onRequest = (cmd, msg) => {
 			this.emit(cmd, msg);
+			if(typeof initialOnRequest == "function") {
+				initialOnRequest.call(this.frame, cmd, msg);
+			}
 		};
 	}
 	on(cmd, callback) {
@@ -345,3 +350,7 @@ ZeroPage.async = {
 			});
 	}
 };
+
+if(typeof module.exports != "undefined") {
+	module.exports = ZeroPage;
+}
