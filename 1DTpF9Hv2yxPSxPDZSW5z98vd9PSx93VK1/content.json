@@ -389,12 +389,12 @@
  "inner_path": "content.json",
  "installed": true,
  "merged_type": "GitCenter",
- "modified": 1517697588,
+ "modified": 1517698596,
  "postmessage_nonce_security": true,
  "signers": ["1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD"],
  "signers_sign": "HKvdh4b0+Kd+9KAHwIG5kLsSrpZZMoUpQheUsv/6IaRjEOgAfcNDqef/J+bCw5CIhwQxlP2oyGa2b1myxI5nidQ=",
  "signs": {
-  "1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD": "GxIjJFU1LdnmDvyEzIUGASN0tHIem8DI21MiSajkQ/DXMDIGcFfQmJCqRrh0uU1Q4hn7T2DUioRxcg6PkiEdzKY="
+  "1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD": "HMif532KAtni4Jkw6k0LDOwjhX10XZuWH4x3vIpYD2LYbeOmUpFNKPIZUcJhTZxQvBQJA3/MBJZPnCP5GKqow4s="
  },
  "signs_required": 1,
  "title": "ZeroUpdateHello",
