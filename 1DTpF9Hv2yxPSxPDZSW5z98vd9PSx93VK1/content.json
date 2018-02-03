@@ -356,6 +356,14 @@
    "sha512": "bab92b68663b50a9f04eba2e8f9897816c72fe6a3d9b9380ee3fce81d7e1155a",
    "size": 585017
   },
+  "zeroupdatehello.git/objects/pack/pack-21a5693ffec2bbed8472536d1020fff335901cfe.idx": {
+   "sha512": "e02db0f883faba696d0a0a4d1151db5ad6f5c6b41a693b4f92a186f200c319ff",
+   "size": 8772
+  },
+  "zeroupdatehello.git/objects/pack/pack-21a5693ffec2bbed8472536d1020fff335901cfe.pack": {
+   "sha512": "910c4d114ec5cc740f8c37e09fb9cb0ffcb1cad5e13ded6e15d56a599c8ed37e",
+   "size": 1278953
+  },
   "zeroupdatehello.git/objects/pack/pack-d7236f1f1061b185774092520cded803f05e8c84.idx": {
    "sha512": "8a222cd30f01b3be5535d540467af66276939c05de25cb6cff6aad2af48d4fc1",
    "size": 22912
@@ -365,7 +373,7 @@
    "size": 3345236
   },
   "zeroupdatehello.git/refs/heads/master": {
-   "sha512": "2324323385ea1e367478181052b6458b8c94ef5b7f04654bba7ce005b279d3af",
+   "sha512": "689f74275ef933527c7a293b2ad73ea4d8ea84ae3b4c4694b93ad96e646d3b8a",
    "size": 41
   }
  },
@@ -381,12 +389,12 @@
  "inner_path": "content.json",
  "installed": true,
  "merged_type": "GitCenter",
- "modified": 1517537568,
+ "modified": 1517697588,
  "postmessage_nonce_security": true,
  "signers": ["1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD"],
  "signers_sign": "HKvdh4b0+Kd+9KAHwIG5kLsSrpZZMoUpQheUsv/6IaRjEOgAfcNDqef/J+bCw5CIhwQxlP2oyGa2b1myxI5nidQ=",
  "signs": {
-  "1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD": "G4sPUhVLCNPN/dmGqsP8U3zxAPlsbQ0C0kmtIL+sf/osYHHPXPuU+Qu0tCNLFZYrodRGkmnyKvQEmYgzKWaHN3M="
+  "1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD": "GxIjJFU1LdnmDvyEzIUGASN0tHIem8DI21MiSajkQ/DXMDIGcFfQmJCqRrh0uU1Q4hn7T2DUioRxcg6PkiEdzKY="
  },
  "signs_required": 1,
  "title": "ZeroUpdateHello",
