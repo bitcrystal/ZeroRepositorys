@@ -1,0 +1,17 @@
+{
+ "address": "1GitLiXB6t5r8vuU2zC6a8GYj9ME6HMQ4t",
+ "cert_auth_type": "web",
+ "cert_sign": "G6kda+9xI+bF1UQhC9zWXKqwtZobwIJr6WV54NCHknEr5QLaFVLK55DNHBTz+tz/VBiP4eC6oi1ydrmJnxg3BnE=",
+ "cert_user_id": "caryoscelus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a705adf41a5ce6d0c7006e9aee3238e45f2b4796432bd08d5a77e051677f2563",
+   "size": 74
+  }
+ },
+ "inner_path": "data/users/13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE/content.json",
+ "modified": 1516768715,
+ "signs": {
+  "13oRBYqNeUr6Tvgt4KkAT9FT4XRiKFBjnE": "HBC1BeW+xULuEJTGjqpM9E2E4rDCjbjhIcM1LILRnsnpRh/s93Prg060c1YyE23hl/Tr0Qzx5L6UJv3hvR9YC2w="
+ }
+}

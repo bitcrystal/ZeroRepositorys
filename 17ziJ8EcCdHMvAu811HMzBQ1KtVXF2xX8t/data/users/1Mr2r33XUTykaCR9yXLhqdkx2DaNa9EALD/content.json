@@ -1,0 +1,17 @@
+{
+ "address": "17ziJ8EcCdHMvAu811HMzBQ1KtVXF2xX8t",
+ "cert_auth_type": "web",
+ "cert_sign": "HChXpImyiCuj8nLbvm2LGO59yE8VfCSEce8Wa/cioSixac3mgsgrfhAhshqtK6ohnASS3RQ3jDhu7aNrRocBd9c=",
+ "cert_user_id": "kanotix2@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7a9fa56137613d9fa756443e872467fa186b7ed8bdbfd78026d0063d8a72ad56",
+   "size": 13786
+  }
+ },
+ "inner_path": "data/users/1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD/content.json",
+ "modified": 1517563136,
+ "signs": {
+  "1Mr2r33XUTykaCR9yXLhqdkx2DaNa9EALD": "HKy1iB3iBDyuj8cAuiUn1oY8voSEDBS37EAVcG6jdq94fvpXMpmOMDk0nR20pMOHzl/G9SJ6/VEM3De6At6/31Y="
+ }
+}
