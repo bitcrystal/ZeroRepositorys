@@ -41,7 +41,7 @@ git clone $path_to_data/1FTZ3bxSAGLrJWZNm8psJ1qZcqUA9KP6tq
 
 ZeroRepositorys Clone:
 
-git clone $Ãpath_to_data/1GXWvTizHmz3P6zPLZSNKG55q8UFStJ4QN
+git clone $path_to_data/1GXWvTizHmz3P6zPLZSNKG55q8UFStJ4QN
 
 
 Please dont clone the 1AHweG1UEdH6gZ5cWr7o6J5y5yeVNU5Gkq repository
